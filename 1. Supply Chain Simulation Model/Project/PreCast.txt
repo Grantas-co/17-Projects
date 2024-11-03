@@ -1,0 +1,4 @@
+Project Name: PreCast
+Inventory:
+1.2x600: 3
+2.4x300: 25
